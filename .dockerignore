@@ -1,0 +1,17 @@
+node_modules
+build
+dist
+coverage
+.git
+.gitignore
+.idea
+.vscode
+.cursor
+.DS_Store
+*.log
+*.md
+.env.local
+.eslintcache
+.cache
+.npm
+storybook-static
